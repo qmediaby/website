@@ -3,155 +3,155 @@
   "title": "Стеллажи металлические от компании КМ-Про",
   "children": {
     "404": {
-      "path": "/404",
+      "path": "/404/",
       "title": "404",
       "children": {}
     },
     "search": {
-      "path": "/search",
+      "path": "/search/",
       "title": "Поиск по сайту",
       "children": {}
     },
     "sitemap": {
-      "path": "/sitemap",
+      "path": "/sitemap/",
       "title": "Карта сайта",
       "children": {}
     },
     "products": {
-      "path": "/products",
+      "path": "/products/",
       "title": "Складские стеллажи",
       "children": {
         "pallet_handling": {
-          "path": "/products/pallet_handling",
+          "path": "/products/pallet_handling/",
           "title": "Паллетные стеллажи",
           "children": {
             "mobil_nie_stellazhi": {
-              "path": "/products/pallet_handling/mobil_nie_stellazhi",
+              "path": "/products/pallet_handling/mobil_nie_stellazhi/",
               "title": "Мобильные стеллажи",
               "children": {}
             },
             "uzkoprohodnie_stellazhi": {
-              "path": "/products/pallet_handling/uzkoprohodnie_stellazhi",
+              "path": "/products/pallet_handling/uzkoprohodnie_stellazhi/",
               "title": "Узкопроходные стеллажи P90",
               "children": {}
             },
             "gravitacionnie_stellazhi": {
-              "path": "/products/pallet_handling/gravitacionnie_stellazhi",
+              "path": "/products/pallet_handling/gravitacionnie_stellazhi/",
               "title": "Гравитационные стеллажи P90",
               "children": {}
             },
             "nabivnie_stellazhi_drive_in": {
-              "path": "/products/pallet_handling/nabivnie_stellazhi_drive_in",
+              "path": "/products/pallet_handling/nabivnie_stellazhi_drive_in/",
               "title": "Набивные стеллажи",
               "children": {}
             },
             "frontal_nie_palletnie_stellazhi_p90": {
-              "path": "/products/pallet_handling/frontal_nie_palletnie_stellazhi_p90",
+              "path": "/products/pallet_handling/frontal_nie_palletnie_stellazhi_p90/",
               "title": "Фронтальные стеллажи",
               "children": {
                 "accessories": {
-                  "path": "/products/pallet_handling/frontal_nie_palletnie_stellazhi_p90/accessories",
+                  "path": "/products/pallet_handling/frontal_nie_palletnie_stellazhi_p90/accessories/",
                   "title": "accessories",
                   "children": {}
                 }
               }
             },
             "gravitacionnie_stellazhi_push_bek_push_b": {
-              "path": "/products/pallet_handling/gravitacionnie_stellazhi_push_bek_push_b",
+              "path": "/products/pallet_handling/gravitacionnie_stellazhi_push_bek_push_b/",
               "title": "Гравитационные стеллажи (пуш-бэк)",
               "children": {}
             }
           }
         },
         "small_part_handling": {
-          "path": "/products/small_part_handling",
+          "path": "/products/small_part_handling/",
           "title": "Полочные стеллажи",
           "children": {
             "mobile_shelving_s90": {
-              "path": "/products/small_part_handling/mobile_shelving_s90",
+              "path": "/products/small_part_handling/mobile_shelving_s90/",
               "title": "Мобильные металлические полочные стеллажи S90",
               "children": {}
             },
             "small_parts_shelving_s90_standard": {
-              "path": "/products/small_part_handling/small_parts_shelving_s90_standard",
+              "path": "/products/small_part_handling/small_parts_shelving_s90_standard/",
               "title": "Стандартные полочные стеллажи S90",
               "children": {}
             },
             "mnogoetazhnie_polochnie_stellazhi_s90": {
-              "path": "/products/small_part_handling/mnogoetazhnie_polochnie_stellazhi_s90",
+              "path": "/products/small_part_handling/mnogoetazhnie_polochnie_stellazhi_s90/",
               "title": "Многоэтажные металлические полочные стеллажи S90",
               "children": {}
             },
             "uzkoprohodnie_polochnie_stellazhi_s90": {
-              "path": "/products/small_part_handling/uzkoprohodnie_polochnie_stellazhi_s90",
+              "path": "/products/small_part_handling/uzkoprohodnie_polochnie_stellazhi_s90/",
               "title": "Узкопроходные полочные стеллажи S90",
               "children": {}
             },
             "korobochnie_gravitacionnie_stellazhi_s90": {
-              "path": "/products/small_part_handling/korobochnie_gravitacionnie_stellazhi_s90",
+              "path": "/products/small_part_handling/korobochnie_gravitacionnie_stellazhi_s90/",
               "title": "Коробочные гравитационные металлические стеллажи S90",
               "children": {}
             }
           }
         },
         "stellazhnij_mezonin": {
-          "path": "/products/stellazhnij_mezonin",
+          "path": "/products/stellazhnij_mezonin/",
           "title": "Мезонинные стеллажи",
           "children": {
             "mezoninnie_system": {
-              "path": "/products/stellazhnij_mezonin/mezoninnie_system",
+              "path": "/products/stellazhnij_mezonin/mezoninnie_system/",
               "title": "Стеллаж мезонинный ME250",
               "children": {}
             }
           }
         },
         "konsol_nie_stellazhi": {
-          "path": "/products/konsol_nie_stellazhi",
+          "path": "/products/konsol_nie_stellazhi/",
           "title": "Консольные стеллажи",
           "children": {}
         },
         "special_nie_konstrukcii": {
-          "path": "/products/special_nie_konstrukcii",
+          "path": "/products/special_nie_konstrukcii/",
           "title": "Специальные конструкции",
           "children": {
             "stellazhi_dlja_magazinov": {
-              "path": "/products/special_nie_konstrukcii/stellazhi_dlja_magazinov",
+              "path": "/products/special_nie_konstrukcii/stellazhi_dlja_magazinov/",
               "title": "Стеллажи для магазина",
               "children": {}
             },
             "stellazhi_dlja_hranenija_shin": {
-              "path": "/products/special_nie_konstrukcii/stellazhi_dlja_hranenija_shin",
+              "path": "/products/special_nie_konstrukcii/stellazhi_dlja_hranenija_shin/",
               "title": "Стеллаж для шин и колес",
               "children": {}
             }
           }
         },
         "skladskie_sistemi_dinamicheskogo_hraneni": {
-          "path": "/products/skladskie_sistemi_dinamicheskogo_hraneni",
+          "path": "/products/skladskie_sistemi_dinamicheskogo_hraneni/",
           "title": "Автоматизированные складские системы",
           "children": {
             "vertikal_nie_lifti_tornado": {
-              "path": "/products/skladskie_sistemi_dinamicheskogo_hraneni/vertikal_nie_lifti_tornado",
+              "path": "/products/skladskie_sistemi_dinamicheskogo_hraneni/vertikal_nie_lifti_tornado/",
               "title": "Вертикальные лифты (TORNADO)",
               "children": {
                 "accessories": {
-                  "path": "/products/skladskie_sistemi_dinamicheskogo_hraneni/vertikal_nie_lifti_tornado/accessories",
+                  "path": "/products/skladskie_sistemi_dinamicheskogo_hraneni/vertikal_nie_lifti_tornado/accessories/",
                   "title": "Вертикальные лифты (TORNADO) - Аксессуары",
                   "children": {}
                 }
               }
             },
             "gorizontal_nie_karuseli_hoca": {
-              "path": "/products/skladskie_sistemi_dinamicheskogo_hraneni/gorizontal_nie_karuseli_hoca",
+              "path": "/products/skladskie_sistemi_dinamicheskogo_hraneni/gorizontal_nie_karuseli_hoca/",
               "title": "Горизонтальные карусели (HOCA)",
               "children": {}
             },
             "vertikal_nie_karuseli_paternoster": {
-              "path": "/products/skladskie_sistemi_dinamicheskogo_hraneni/vertikal_nie_karuseli_paternoster",
+              "path": "/products/skladskie_sistemi_dinamicheskogo_hraneni/vertikal_nie_karuseli_paternoster/",
               "title": "Вертикальные карусели (PATERNOSTER)",
               "children": {
                 "accessories": {
-                  "path": "/products/skladskie_sistemi_dinamicheskogo_hraneni/vertikal_nie_karuseli_paternoster/accessories",
+                  "path": "/products/skladskie_sistemi_dinamicheskogo_hraneni/vertikal_nie_karuseli_paternoster/accessories/",
                   "title": "Вертикальные карусели (PATERNOSTER) - Аксессуары",
                   "children": {}
                 }
@@ -162,163 +162,163 @@
       }
     },
     "contact_us": {
-      "path": "/contact_us",
+      "path": "/contact_us/",
       "title": "Контакты",
       "children": {}
     },
     "references": {
-      "path": "/references",
+      "path": "/references/",
       "title": "Реализованные проекты",
       "children": {
         "workplace_storage": {
-          "path": "/references/workplace_storage",
+          "path": "/references/workplace_storage/",
           "title": "Реализованные проекты с применением мезонинных систем",
           "children": {
             "van_der_gaag_bivi_niderlandi": {
-              "path": "/references/workplace_storage/van_der_gaag_bivi_niderlandi",
+              "path": "/references/workplace_storage/van_der_gaag_bivi_niderlandi/",
               "title": "Ван Дер Гааг БиВи, Нидерланды",
               "children": {}
             }
           }
         },
         "mezoninnie_sistemi": {
-          "path": "/references/mezoninnie_sistemi",
+          "path": "/references/mezoninnie_sistemi/",
           "title": "Проекты для хранения негабаритных грузов",
           "children": {
             "seas_nve_danija": {
-              "path": "/references/mezoninnie_sistemi/seas_nve_danija",
+              "path": "/references/mezoninnie_sistemi/seas_nve_danija/",
               "title": "СЕАС-НВЕ, Дания",
               "children": {}
             },
             "iksel_big_danija": {
-              "path": "/references/mezoninnie_sistemi/iksel_big_danija",
+              "path": "/references/mezoninnie_sistemi/iksel_big_danija/",
               "title": "ИксЭль Биг, Дания",
               "children": {}
             },
             "k_rauta_finljandija": {
-              "path": "/references/mezoninnie_sistemi/k_rauta_finljandija",
+              "path": "/references/mezoninnie_sistemi/k_rauta_finljandija/",
               "title": "К-раута, Финляндия",
               "children": {}
             },
             "fol_ksvagen_shvecija": {
-              "path": "/references/mezoninnie_sistemi/fol_ksvagen_shvecija",
+              "path": "/references/mezoninnie_sistemi/fol_ksvagen_shvecija/",
               "title": "Фольксваген, Швеция",
               "children": {}
             },
             "agrimarket_finljandija": {
-              "path": "/references/mezoninnie_sistemi/agrimarket_finljandija",
+              "path": "/references/mezoninnie_sistemi/agrimarket_finljandija/",
               "title": "Агримаркет, Финляндия",
               "children": {}
             },
             "kodin_terra_finljandija": {
-              "path": "/references/mezoninnie_sistemi/kodin_terra_finljandija",
+              "path": "/references/mezoninnie_sistemi/kodin_terra_finljandija/",
               "title": "Кодин Терра, Финляндия",
               "children": {}
             }
           }
         },
         "storing_of_pallets": {
-          "path": "/references/storing_of_pallets",
+          "path": "/references/storing_of_pallets/",
           "title": "Паллетное хранение",
           "children": {
             "pallet_flow": {
-              "path": "/references/storing_of_pallets/pallet_flow",
-              "title": "Реализованные проекты с применением гравитационных стеллажей",
+              "path": "/references/storing_of_pallets/pallet_flow/",
+              "title": "Реализованные проекты с применением гравитационных стеллажей/",
               "children": {
                 "val_semollen_danija": {
-                  "path": "/references/storing_of_pallets/pallet_flow/val_semollen_danija",
+                  "path": "/references/storing_of_pallets/pallet_flow/val_semollen_danija/",
                   "title": "Вальсемоллен, Дания",
                   "children": {}
                 },
                 "nanso_grup_finljandija": {
-                  "path": "/references/storing_of_pallets/pallet_flow/nanso_grup_finljandija",
+                  "path": "/references/storing_of_pallets/pallet_flow/nanso_grup_finljandija/",
                   "title": "Нансо Груп, Финляндия",
                   "children": {}
                 },
                 "hansa_print_finljandija": {
-                  "path": "/references/storing_of_pallets/pallet_flow/hansa_print_finljandija",
+                  "path": "/references/storing_of_pallets/pallet_flow/hansa_print_finljandija/",
                   "title": "Ханса Принт, Финляндия",
                   "children": {}
                 },
                 "hutamaki_oj_finljandija": {
-                  "path": "/references/storing_of_pallets/pallet_flow/hutamaki_oj_finljandija",
+                  "path": "/references/storing_of_pallets/pallet_flow/hutamaki_oj_finljandija/",
                   "title": "Хутамаки Ой, Финляндия",
                   "children": {}
                 }
               }
             },
             "mobile_pallet_racking": {
-              "path": "/references/storing_of_pallets/mobile_pallet_racking",
+              "path": "/references/storing_of_pallets/mobile_pallet_racking/",
               "title": "Реализованные проекты с применением мобильных стеллажей",
               "children": {
                 "hotlet_bel_gija": {
-                  "path": "/references/storing_of_pallets/mobile_pallet_racking/hotlet_bel_gija",
+                  "path": "/references/storing_of_pallets/mobile_pallet_racking/hotlet_bel_gija/",
                   "title": "Хотлет, Бельгия",
                   "children": {}
                 },
                 "svegon_ab_shvecija": {
-                  "path": "/references/storing_of_pallets/mobile_pallet_racking/svegon_ab_shvecija",
+                  "path": "/references/storing_of_pallets/mobile_pallet_racking/svegon_ab_shvecija/",
                   "title": "Свегон АБ, Швеция",
                   "children": {}
                 },
                 "enerdzhimidt_danija": {
-                  "path": "/references/storing_of_pallets/mobile_pallet_racking/enerdzhimidt_danija",
+                  "path": "/references/storing_of_pallets/mobile_pallet_racking/enerdzhimidt_danija/",
                   "title": "Энерджимидт, Дания",
                   "children": {}
                 },
                 "novo_nordisk_as_danija": {
-                  "path": "/references/storing_of_pallets/mobile_pallet_racking/novo_nordisk_as_danija",
+                  "path": "/references/storing_of_pallets/mobile_pallet_racking/novo_nordisk_as_danija/",
                   "title": "Ново Нордиск АС, Дания",
                   "children": {}
                 },
                 "efdzhej_indastriz_danija": {
-                  "path": "/references/storing_of_pallets/mobile_pallet_racking/efdzhej_indastriz_danija",
+                  "path": "/references/storing_of_pallets/mobile_pallet_racking/efdzhej_indastriz_danija/",
                   "title": "ЭфДжей Индастриз, Дания",
                   "children": {}
                 },
                 "hening_ol_sen_as_norvegija": {
-                  "path": "/references/storing_of_pallets/mobile_pallet_racking/hening_ol_sen_as_norvegija",
+                  "path": "/references/storing_of_pallets/mobile_pallet_racking/hening_ol_sen_as_norvegija/",
                   "title": "Хенинг Ольсен АС, Норвегия",
                   "children": {}
                 },
                 "moens_verpakkingen_bel_gija": {
-                  "path": "/references/storing_of_pallets/mobile_pallet_racking/moens_verpakkingen_bel_gija",
+                  "path": "/references/storing_of_pallets/mobile_pallet_racking/moens_verpakkingen_bel_gija/",
                   "title": "Моенс Верпаккинген, Бельгия",
                   "children": {}
                 },
                 "muuj_lodzhistiks_niderlandi": {
-                  "path": "/references/storing_of_pallets/mobile_pallet_racking/muuj_lodzhistiks_niderlandi",
+                  "path": "/references/storing_of_pallets/mobile_pallet_racking/muuj_lodzhistiks_niderlandi/",
                   "title": "Мууй Лоджистикс, Нидерланды",
                   "children": {}
                 },
                 "stromme_reklame_as_norvegija": {
-                  "path": "/references/storing_of_pallets/mobile_pallet_racking/stromme_reklame_as_norvegija",
+                  "path": "/references/storing_of_pallets/mobile_pallet_racking/stromme_reklame_as_norvegija/",
                   "title": "Стромме Рекламе АС, Норвегия",
                   "children": {}
                 }
               }
             },
             "pallet_racking_standart": {
-              "path": "/references/storing_of_pallets/pallet_racking_standart",
+              "path": "/references/storing_of_pallets/pallet_racking_standart/",
               "title": "Реализованные проекты с применением фронтальных паллетных стеллажей",
               "children": {
                 "dastin_shvecija": {
-                  "path": "/references/storing_of_pallets/pallet_racking_standart/dastin_shvecija",
+                  "path": "/references/storing_of_pallets/pallet_racking_standart/dastin_shvecija/",
                   "title": "Дастин, Швеция",
                   "children": {}
                 },
                 "biltema_shvecija": {
-                  "path": "/references/storing_of_pallets/pallet_racking_standart/biltema_shvecija",
+                  "path": "/references/storing_of_pallets/pallet_racking_standart/biltema_shvecija/",
                   "title": "Билтема, Швеция",
                   "children": {}
                 },
                 "runsven_shvecija": {
-                  "path": "/references/storing_of_pallets/pallet_racking_standart/runsven_shvecija",
+                  "path": "/references/storing_of_pallets/pallet_racking_standart/runsven_shvecija/",
                   "title": "Рунсвен, Швеция",
                   "children": {}
                 },
                 "mul_tilajn_danija": {
-                  "path": "/references/storing_of_pallets/pallet_racking_standart/mul_tilajn_danija",
+                  "path": "/references/storing_of_pallets/pallet_racking_standart/mul_tilajn_danija/",
                   "title": "Мультилайн, Дания",
                   "children": {}
                 },
@@ -328,17 +328,17 @@
                   "children": {}
                 },
                 "maritim_as_norvegija": {
-                  "path": "/references/storing_of_pallets/pallet_racking_standart/maritim_as_norvegija",
+                  "path": "/references/storing_of_pallets/pallet_racking_standart/maritim_as_norvegija/",
                   "title": "Маритим АС, Норвегия",
                   "children": {}
                 },
                 "berner_oj_finljandija": {
-                  "path": "/references/storing_of_pallets/pallet_racking_standart/berner_oj_finljandija",
+                  "path": "/references/storing_of_pallets/pallet_racking_standart/berner_oj_finljandija/",
                   "title": "Бернер Ой, Финляндия",
                   "children": {}
                 },
                 "asko_vest_as_norvegija": {
-                  "path": "/references/storing_of_pallets/pallet_racking_standart/asko_vest_as_norvegija",
+                  "path": "/references/storing_of_pallets/pallet_racking_standart/asko_vest_as_norvegija/",
                   "title": "АСКО ВЕСТ АС, Норвегия",
                   "children": {}
                 },
@@ -348,7 +348,7 @@
                   "children": {}
                 },
                 "danske_fragtmend_danija": {
-                  "path": "/references/storing_of_pallets/pallet_racking_standart/danske_fragtmend_danija",
+                  "path": "/references/storing_of_pallets/pallet_racking_standart/danske_fragtmend_danija/",
                   "title": "Данске Фрагтменд, Дания",
                   "children": {}
                 },
@@ -358,43 +358,43 @@
                   "children": {}
                 },
                 "parker_hannifin_niderlandi": {
-                  "path": "/references/storing_of_pallets/pallet_racking_standart/parker_hannifin_niderlandi",
+                  "path": "/references/storing_of_pallets/pallet_racking_standart/parker_hannifin_niderlandi/",
                   "title": "Паркер Ханнифин, Нидерланды",
                   "children": {}
                 },
                 "shenker_lodzhistiks_shvecija": {
-                  "path": "/references/storing_of_pallets/pallet_racking_standart/shenker_lodzhistiks_shvecija",
+                  "path": "/references/storing_of_pallets/pallet_racking_standart/shenker_lodzhistiks_shvecija/",
                   "title": "Шенкер Лоджистикс, Швеция",
                   "children": {}
                 },
                 "mtju_detrojt_dizel_niderlandi": {
-                  "path": "/references/storing_of_pallets/pallet_racking_standart/mtju_detrojt_dizel_niderlandi",
+                  "path": "/references/storing_of_pallets/pallet_racking_standart/mtju_detrojt_dizel_niderlandi/",
                   "title": "МТЮ Детройт Дизель, Нидерланды",
                   "children": {}
                 },
                 "cept_jukej_pilsi_velikobritanija": {
-                  "path": "/references/storing_of_pallets/pallet_racking_standart/cept_jukej_pilsi_velikobritanija",
+                  "path": "/references/storing_of_pallets/pallet_racking_standart/cept_jukej_pilsi_velikobritanija/",
                   "title": "CePT Юкей ПиЛСи, Великобритания",
                   "children": {}
                 },
                 "sifild_lodzhistiks_velikobritanija": {
-                  "path": "/references/storing_of_pallets/pallet_racking_standart/sifild_lodzhistiks_velikobritanija",
+                  "path": "/references/storing_of_pallets/pallet_racking_standart/sifild_lodzhistiks_velikobritanija/",
                   "title": "Сифилд Лоджистикс, Великобритания",
                   "children": {}
                 }
               }
             },
             "uzkoprohodnie_stellazhi": {
-              "path": "/references/storing_of_pallets/uzkoprohodnie_stellazhi",
+              "path": "/references/storing_of_pallets/uzkoprohodnie_stellazhi/",
               "title": "Реализованные проекты с применением узкопроходных стеллажей",
               "children": {
                 "hartuoll_ab_finljandija": {
-                  "path": "/references/storing_of_pallets/uzkoprohodnie_stellazhi/hartuoll_ab_finljandija",
+                  "path": "/references/storing_of_pallets/uzkoprohodnie_stellazhi/hartuoll_ab_finljandija/",
                   "title": "Хартуолл АБ, Финляндия",
                   "children": {}
                 },
                 "nethandelen_norge_norvegija": {
-                  "path": "/references/storing_of_pallets/uzkoprohodnie_stellazhi/nethandelen_norge_norvegija",
+                  "path": "/references/storing_of_pallets/uzkoprohodnie_stellazhi/nethandelen_norge_norvegija/",
                   "title": "Нетханделен Норге, Норвегия",
                   "children": {}
                 }
@@ -403,161 +403,161 @@
           }
         },
         "storage_of_small_parts": {
-          "path": "/references/storage_of_small_parts",
+          "path": "/references/storage_of_small_parts/",
           "title": "Хранение на полках",
           "children": {
             "polochnie_stellazhi": {
-              "path": "/references/storage_of_small_parts/polochnie_stellazhi",
+              "path": "/references/storage_of_small_parts/polochnie_stellazhi/",
               "title": "Реализованные проекты с применением полочных стеллажей",
               "children": {
                 "kosanit_bel_gija": {
-                  "path": "/references/storage_of_small_parts/polochnie_stellazhi/kosanit_bel_gija",
+                  "path": "/references/storage_of_small_parts/polochnie_stellazhi/kosanit_bel_gija/",
                   "title": "Косанит, Бельгия",
                   "children": {}
                 },
                 "mansa_avtodele_danija": {
-                  "path": "/references/storage_of_small_parts/polochnie_stellazhi/mansa_avtodele_danija",
+                  "path": "/references/storage_of_small_parts/polochnie_stellazhi/mansa_avtodele_danija/",
                   "title": "Манса Автоделе, Дания",
                   "children": {}
                 },
                 "dzhula_postorder_ab_shvecija": {
-                  "path": "/references/storage_of_small_parts/polochnie_stellazhi/dzhula_postorder_ab_shvecija",
+                  "path": "/references/storage_of_small_parts/polochnie_stellazhi/dzhula_postorder_ab_shvecija/",
                   "title": "Джула Постордер АБ, Швеция",
                   "children": {}
                 },
                 "polo_ekspressversand_germanija": {
-                  "path": "/references/storage_of_small_parts/polochnie_stellazhi/polo_ekspressversand_germanija",
+                  "path": "/references/storage_of_small_parts/polochnie_stellazhi/polo_ekspressversand_germanija/",
                   "title": "Поло Экспрессверсанд, Германия",
                   "children": {}
                 }
               }
             },
             "stellazhi_dlja_zoni_otbora": {
-              "path": "/references/storage_of_small_parts/stellazhi_dlja_zoni_otbora",
+              "path": "/references/storage_of_small_parts/stellazhi_dlja_zoni_otbora/",
               "title": "Реализованные проекты с применением стеллажей для зоны отбора",
               "children": {
                 "vol_vo_pv_shvecija": {
-                  "path": "/references/storage_of_small_parts/stellazhi_dlja_zoni_otbora/vol_vo_pv_shvecija",
+                  "path": "/references/storage_of_small_parts/stellazhi_dlja_zoni_otbora/vol_vo_pv_shvecija/",
                   "title": "Вольво ПВ, Швеция",
                   "children": {}
                 }
               }
             },
             "mobil_nie_polochnie_stellazhi": {
-              "path": "/references/storage_of_small_parts/mobil_nie_polochnie_stellazhi",
+              "path": "/references/storage_of_small_parts/mobil_nie_polochnie_stellazhi/",
               "title": "Реализованные проекты с применением мобильных полочных стеллажей",
               "children": {
                 "klinger_danija": {
-                  "path": "/references/storage_of_small_parts/mobil_nie_polochnie_stellazhi/klinger_danija",
+                  "path": "/references/storage_of_small_parts/mobil_nie_polochnie_stellazhi/klinger_danija/",
                   "title": "Клингер, Дания",
                   "children": {}
                 },
                 "beko_bil_shvecija": {
-                  "path": "/references/storage_of_small_parts/mobil_nie_polochnie_stellazhi/beko_bil_shvecija",
+                  "path": "/references/storage_of_small_parts/mobil_nie_polochnie_stellazhi/beko_bil_shvecija/",
                   "title": "Беко Бил, Швеция",
                   "children": {}
                 },
                 "metallpress_donati_italija": {
-                  "path": "/references/storage_of_small_parts/mobil_nie_polochnie_stellazhi/metallpress_donati_italija",
+                  "path": "/references/storage_of_small_parts/mobil_nie_polochnie_stellazhi/metallpress_donati_italija/",
                   "title": "Металлпресс Донати, Италия",
                   "children": {}
                 },
                 "svenska_bil_i_norden_ab_shvecija": {
-                  "path": "/references/storage_of_small_parts/mobil_nie_polochnie_stellazhi/svenska_bil_i_norden_ab_shvecija",
+                  "path": "/references/storage_of_small_parts/mobil_nie_polochnie_stellazhi/svenska_bil_i_norden_ab_shvecija/",
                   "title": "Свенска Бил и Норден АБ, Швеция",
                   "children": {}
                 }
               }
             },
             "mnogoetazhnie_polochnie_stellazhi": {
-              "path": "/references/storage_of_small_parts/mnogoetazhnie_polochnie_stellazhi",
+              "path": "/references/storage_of_small_parts/mnogoetazhnie_polochnie_stellazhi/",
               "title": "Реализованные проекты с применением многоэтажных полочных стеллажей",
               "children": {
                 "smit_i_nef_ju_shvejcarija": {
-                  "path": "/references/storage_of_small_parts/mnogoetazhnie_polochnie_stellazhi/smit_i_nef_ju_shvejcarija",
+                  "path": "/references/storage_of_small_parts/mnogoetazhnie_polochnie_stellazhi/smit_i_nef_ju_shvejcarija/",
                   "title": "Смит и Нефью, Швейцария",
                   "children": {}
                 },
                 "tojota_parts_centr_bel_gija": {
-                  "path": "/references/storage_of_small_parts/mnogoetazhnie_polochnie_stellazhi/tojota_parts_centr_bel_gija",
+                  "path": "/references/storage_of_small_parts/mnogoetazhnie_polochnie_stellazhi/tojota_parts_centr_bel_gija/",
                   "title": "Тойота Партс Центр, Бельгия",
                   "children": {}
                 }
               }
             },
             "proekti_s_primeneniem_gorizontal_nih_kar": {
-              "path": "/references/storage_of_small_parts/proekti_s_primeneniem_gorizontal_nih_kar",
+              "path": "/references/storage_of_small_parts/proekti_s_primeneniem_gorizontal_nih_kar/",
               "title": "Реализованные проекты с применением горизонтальных каруселей (HOCA)",
               "children": {
                 "groe_ag_germanija": {
-                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_gorizontal_nih_kar/groe_ag_germanija",
+                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_gorizontal_nih_kar/groe_ag_germanija/",
                   "title": "Грое АГ, Германия",
                   "children": {}
                 },
                 "bol_nichnaja_apteka_v_g_drezden_germanij": {
-                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_gorizontal_nih_kar/bol_nichnaja_apteka_v_g_drezden_germanij",
+                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_gorizontal_nih_kar/bol_nichnaja_apteka_v_g_drezden_germanij/",
                   "title": "Больничная аптека в г. Дрезден, Германия",
                   "children": {}
                 }
               }
             },
             "proekti_s_primeneniem_vertikal_nih_karus": {
-              "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_karus",
+              "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_karus/",
               "title": "Реализованные проекты с применением вертикальных каруселей (PATERNOSTER)",
               "children": {
                 "dom_mestnogo_upravlenija_pol_sha": {
-                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_karus/dom_mestnogo_upravlenija_pol_sha",
+                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_karus/dom_mestnogo_upravlenija_pol_sha/",
                   "title": "Дом местного управления, Польша",
                   "children": {}
                 }
               }
             },
             "proekti_s_primeneniem_vertikal_nih_lifto": {
-              "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_lifto",
+              "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_lifto/",
               "title": "Реализованные проекты с применением вертикальных лифтов (TORNADO)",
               "children": {
                 "dani_teh_danija": {
-                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_lifto/dani_teh_danija",
+                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_lifto/dani_teh_danija/",
                   "title": "Дани-Тех, Дания",
                   "children": {}
                 },
                 "lg_kemikal_pol_sha": {
-                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_lifto/lg_kemikal_pol_sha",
+                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_lifto/lg_kemikal_pol_sha/",
                   "title": "LG Кемикал, Польша",
                   "children": {}
                 },
                 "ikea_velikobritanija": {
-                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_lifto/ikea_velikobritanija",
+                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_lifto/ikea_velikobritanija/",
                   "title": "Икеа, Великобритания",
                   "children": {}
                 },
                 "h_kraac_oj_finljandija": {
-                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_lifto/h_kraac_oj_finljandija",
+                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_lifto/h_kraac_oj_finljandija/",
                   "title": "Х.Краац Ой, Финляндия",
                   "children": {}
                 },
                 "elektroskandija_finljandija": {
-                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_lifto/elektroskandija_finljandija",
+                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_lifto/elektroskandija_finljandija/",
                   "title": "Электроскандия, Финляндия",
                   "children": {}
                 },
                 "skandinavian_ajvea_shvecija": {
-                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_lifto/skandinavian_ajvea_shvecija",
+                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_lifto/skandinavian_ajvea_shvecija/",
                   "title": "Скандинавиан Айвэа, Швеция",
                   "children": {}
                 },
                 "stema_inzhiniring_as_danija": {
-                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_lifto/stema_inzhiniring_as_danija",
+                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_lifto/stema_inzhiniring_as_danija/",
                   "title": "Стема инжиниринг АС, Дания",
                   "children": {}
                 },
                 "koviston_avto_oj_finljandija": {
-                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_lifto/koviston_avto_oj_finljandija",
+                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_lifto/koviston_avto_oj_finljandija/",
                   "title": "Ковистон Авто Ой, Финляндия",
                   "children": {}
                 },
                 "holger_hristiansen_a_s_danija": {
-                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_lifto/holger_hristiansen_a_s_danija",
+                  "path": "/references/storage_of_small_parts/proekti_s_primeneniem_vertikal_nih_lifto/holger_hristiansen_a_s_danija/",
                   "title": "Холгер Христиансен А/С, Дания",
                   "children": {}
                 }
@@ -566,26 +566,26 @@
           }
         },
         "logisticheskie_operatori": {
-          "path": "/references/logisticheskie_operatori",
+          "path": "/references/logisticheskie_operatori/",
           "title": "Проекты для логистических операторов",
           "children": {
             "servistik_ab_shvecija": {
-              "path": "/references/logisticheskie_operatori/servistik_ab_shvecija",
+              "path": "/references/logisticheskie_operatori/servistik_ab_shvecija/",
               "title": "Сервистик АБ, Швеция",
               "children": {}
             },
             "dki_lodzhistiks_a_s_danija": {
-              "path": "/references/logisticheskie_operatori/dki_lodzhistiks_a_s_danija",
+              "path": "/references/logisticheskie_operatori/dki_lodzhistiks_a_s_danija/",
               "title": "ДКИ Лоджистикс А/С, Дания",
               "children": {}
             },
             "nissan_shenker_lodzhistiks_shvecija": {
-              "path": "/references/logisticheskie_operatori/nissan_shenker_lodzhistiks_shvecija",
+              "path": "/references/logisticheskie_operatori/nissan_shenker_lodzhistiks_shvecija/",
               "title": "Ниссан Шенкер Лоджистикс, Швеция",
               "children": {}
             },
             "elektroljuks_distriparts_ab_shvecija": {
-              "path": "/references/logisticheskie_operatori/elektroljuks_distriparts_ab_shvecija",
+              "path": "/references/logisticheskie_operatori/elektroljuks_distriparts_ab_shvecija/",
               "title": "Электролюкс Дистрипартс АБ, Швеция",
               "children": {}
             }
@@ -594,30 +594,30 @@
       }
     },
     "aboutcompany": {
-      "path": "/aboutcompany",
+      "path": "/aboutcompany/",
       "title": "aboutcompany",
       "children": {
         "about": {
-          "path": "/aboutcompany/about",
+          "path": "/aboutcompany/about/",
           "title": "О компании ЗАО «КМ-про»",
           "children": {}
         },
         "history": {
-          "path": "/aboutcompany/history",
+          "path": "/aboutcompany/history/",
           "title": "История компании Constructor",
           "children": {}
         },
         "quality": {
-          "path": "/aboutcompany/quality",
+          "path": "/aboutcompany/quality/",
           "title": "Система качества",
           "children": {}
         },
         "articles": {
-          "path": "/aboutcompany/articles",
+          "path": "/aboutcompany/articles/",
           "title": "Полезные статьи",
           "children": {
             "vidi_skladskih_stellazhej_i_ih_osobennos": {
-              "path": "/aboutcompany/articles/vidi_skladskih_stellazhej_i_ih_osobennos",
+              "path": "/aboutcompany/articles/vidi_skladskih_stellazhej_i_ih_osobennos/",
               "title": "Виды складских стеллажей и их особенности применения",
               "children": {}
             }
@@ -626,51 +626,51 @@
       }
     },
     "our_services": {
-      "path": "/our_services",
+      "path": "/our_services/",
       "title": "our_services",
       "children": {
         "rascheti": {
-          "path": "/our_services/rascheti",
+          "path": "/our_services/rascheti/",
           "title": "Расчеты стоимости и поставки складского оборудования",
           "children": {}
         },
         "inspekcija": {
-          "path": "/our_services/inspekcija",
+          "path": "/our_services/inspekcija/",
           "title": "Инспекция стеллажных систем",
           "children": {}
         },
         "predlozhenie": {
-          "path": "/our_services/predlozhenie",
+          "path": "/our_services/predlozhenie/",
           "title": "Предложение",
           "children": {}
         },
         "our_services1": {
-          "path": "/our_services/our_services1",
+          "path": "/our_services/our_services1/",
           "title": "Наши услуги",
           "children": {}
         },
         "produkt_sistema": {
-          "path": "/our_services/produkt_sistema",
+          "path": "/our_services/produkt_sistema/",
           "title": "Логистические продукты и системы",
           "children": {}
         },
         "dostavka_i_ustanovka": {
-          "path": "/our_services/dostavka_i_ustanovka",
+          "path": "/our_services/dostavka_i_ustanovka/",
           "title": "Доставка и установка стеллажного оборудования",
           "children": {}
         },
         "remont_obsluzhivanie": {
-          "path": "/our_services/remont_obsluzhivanie",
+          "path": "/our_services/remont_obsluzhivanie/",
           "title": "Ремонт/обслуживание стеллажных систем",
           "children": {}
         },
         "soprovozhdenie_proekta": {
-          "path": "/our_services/soprovozhdenie_proekta",
+          "path": "/our_services/soprovozhdenie_proekta/",
           "title": "Сопровождение проекта",
           "children": {}
         },
         "analiz_suschestvujuschej_situacii": {
-          "path": "/our_services/analiz_suschestvujuschej_situacii",
+          "path": "/our_services/analiz_suschestvujuschej_situacii/",
           "title": "Анализ существующей ситуации",
           "children": {}
         }
