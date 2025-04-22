@@ -5,6 +5,15 @@ import ImageCarousel from '../../../components/ImageCarousel';
 import { CONTACTS_BLOCK } from '../../../constants';
 import OrderCTA from '../../../components/OrderCTA.astro';
 
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description } = "Паллетный стеллаж для склада - купить в Минске (универсальные), недорого";
+const defaultDescription = "Паллетные стеллажи заказать в каталоге «КМ-про» для складского хранения. ✔ Доставка и сборка по всей Беларуси. ✔ Более 450 объектов. ✔ Работаем с 2003 года. ☎ Звоните: +375 (17) 373-01-22";
+---
+
 const sidebarItems = [
   {
     title: 'Паллетные стеллажи',
