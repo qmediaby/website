@@ -3,6 +3,16 @@ import Layout from '../../layouts/MainLayout.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import ProductCard from '../../components/ProductCard.astro';
 
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description } = "Паллетный стеллаж для склада - купить в Минске (универсальные), недорого";
+const defaultDescription = "Паллетные стеллажи заказать в каталоге «КМ-про» для складского хранения. ✔ Доставка и сборка по всей Беларуси. ✔ Более 450 объектов. ✔ Работаем с 2003 года. ☎ Звоните: +375 (17) 373-01-22";
+---
+
 const breadcrumbItems = [
   { title: 'Главная', href: '/' },
   { title: 'Продукция', href: '/products/' },
