@@ -116,7 +116,7 @@ const ImageCarousel = ({ slides }: ImageCarouselProps) => {
               <div className="relative pt-[45%]">
                 <img
                   src={slide.image}
-                  alt=""
+                  alt="Купить металлический стеллаж в Минске"
                   className="absolute inset-0 w-full h-full object-cover"
                   loading={index === 0 ? 'eager' : 'lazy'}
                   decoding="async"
